@@ -1,0 +1,14 @@
+C:\Users\detof\source\repos\Treinamento-GitHub\Treinamento-GitHub\bin\Debug\net8.0\Treinamento-GitHub.exe
+C:\Users\detof\source\repos\Treinamento-GitHub\Treinamento-GitHub\bin\Debug\net8.0\Treinamento-GitHub.deps.json
+C:\Users\detof\source\repos\Treinamento-GitHub\Treinamento-GitHub\bin\Debug\net8.0\Treinamento-GitHub.runtimeconfig.json
+C:\Users\detof\source\repos\Treinamento-GitHub\Treinamento-GitHub\bin\Debug\net8.0\Treinamento-GitHub.dll
+C:\Users\detof\source\repos\Treinamento-GitHub\Treinamento-GitHub\bin\Debug\net8.0\Treinamento-GitHub.pdb
+C:\Users\detof\source\repos\Treinamento-GitHub\Treinamento-GitHub\obj\Debug\net8.0\Treinamento-GitHub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\detof\source\repos\Treinamento-GitHub\Treinamento-GitHub\obj\Debug\net8.0\Treinamento-GitHub.AssemblyInfoInputs.cache
+C:\Users\detof\source\repos\Treinamento-GitHub\Treinamento-GitHub\obj\Debug\net8.0\Treinamento-GitHub.AssemblyInfo.cs
+C:\Users\detof\source\repos\Treinamento-GitHub\Treinamento-GitHub\obj\Debug\net8.0\Treinamento-GitHub.csproj.CoreCompileInputs.cache
+C:\Users\detof\source\repos\Treinamento-GitHub\Treinamento-GitHub\obj\Debug\net8.0\Treinamento-GitHub.dll
+C:\Users\detof\source\repos\Treinamento-GitHub\Treinamento-GitHub\obj\Debug\net8.0\refint\Treinamento-GitHub.dll
+C:\Users\detof\source\repos\Treinamento-GitHub\Treinamento-GitHub\obj\Debug\net8.0\Treinamento-GitHub.pdb
+C:\Users\detof\source\repos\Treinamento-GitHub\Treinamento-GitHub\obj\Debug\net8.0\Treinamento-GitHub.genruntimeconfig.cache
+C:\Users\detof\source\repos\Treinamento-GitHub\Treinamento-GitHub\obj\Debug\net8.0\ref\Treinamento-GitHub.dll
